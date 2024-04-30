@@ -1,0 +1,26 @@
+{
+  "name": "formicacid-flight-strip-manager",
+  "version": "1.0.0",
+  "description": "A minimal Electron application for the fsm",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "win": {
+    "icon": "/favicon.png"
+  },
+  "author": "FormicAcid",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-packager": "^17.1.2"
+  }
+}
