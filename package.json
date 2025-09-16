@@ -20,7 +20,7 @@
   "author": "FormicAcid",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^30.0.5",
+    "electron": "^35.7.5",
     "electron-packager": "^17.1.2"
   }
 }
