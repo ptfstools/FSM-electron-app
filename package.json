@@ -18,8 +18,7 @@
     "@electron/rebuild": "^4.0.1",
     "app-builder-bin": "^5.0.0-alpha.12",
     "electron": "^39.1.1",
-    "electron-builder": "^26.0.12",
-    "electron-rebuild": "^3.2.9"
+    "electron-builder": "^26.0.12"
   },
   "build": {
     "directories": {
